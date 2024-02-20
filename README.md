@@ -1,5 +1,5 @@
 # Hi there 👋, Victor here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=VicSobDev.repoName) [![GitHub followers](https://img.shields.io/github/followers/VicSobDev.svg?style=social&label=Follow)](https://github.com/VicSobDev?tab=followers)<br/>
+[![GitHub followers](https://img.shields.io/github/followers/VicSobDev.svg?style=social&label=Follow)](https://github.com/VicSobDev?tab=followers)<br/>
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
