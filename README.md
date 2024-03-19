@@ -1,4 +1,4 @@
-# Hi there 👋, Victor here. 
+# Hi there 👋
 [![GitHub followers](https://img.shields.io/github/followers/VicSobDev.svg?style=social&label=Follow)](https://github.com/VicSobDev?tab=followers)<br/>
 
 <!--
@@ -11,7 +11,6 @@
 
 I am a Backend Developer. Golang, JS, Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Backend Development, Web Scraping, Cyber Security and Mobile Development**
-- 📫 Reach out to me at: <a href="victorsobral1000@gmail.com">victorsobral1000@gmail.com</a>
 
 __Check out my GitHub repository:__
 
